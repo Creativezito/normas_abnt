@@ -1,0 +1,33 @@
+Nos trabalhos nas formas feitas em ABNT, é necessario seguir tais normas para a criação de documentos academicos, com toda a formatação necessaria. Nessa explicação inclue quais tipos de fontes podem ser 
+usadas, o tamanho necessario das fontes, o alinhamento, espaçamento, margens e entre outros.
+
+QUAIS FONTES DEVEM SER USADAS EM ABNT?
+- As normas da ABNT estabelecem que o tipo de fonte necessaria pra qualquer projeto deve ser Arial ou Times New Roman, sendo sempre na cor preta, não podendo qualquer tipo de outra fonte ou as duas fontes
+no mesmo trabalho, pois não será aceito.
+
+QUAL TAMANHO NECESSARIO DAS FONTES EM ABNT?
+- Todos os textos devem ser formatados no tamanho 12, independente do tipo de fonte, exeto nas citações diretas longas, nas notas e rodapé, nas referencias bibliográficas, nas folhas de rosto e no titulo
+de ilustrações ou nos conteúdos como graficos e tabelas, tem que ser no tamanho 10.
+
+REGRAS DE FORMATAÇÂO EM ABNT:
+
+ALINHAMENTO
+- Na parte do alinhamento, deve-se usar o alinhamento que distribui as palavras nas linhas de forma que toquem as margens da esquerda e da direita, sendo a unica exceção para essa regra é 
+a lista de referências bibliográficas que deve ser alinhada à esquerda.
+
+ESPAÇAMENTO:
+- Na parte do espaçamento, deve-se deixar espaçamento entre linhas de 1,5 cm, por exemplo, entre uma linha do texto e outra deve-se ajustar o espaçamento para 1,5. Existem algumas exceções para isso como 
+nas citações diretas longas em que o espaçamento deve ser simples. 
+
+MARGENS
+- Segundo as normas da ABNT, as margens de todos os trabalhos devem ser:
+    Esquerda: 3 cm
+    Superior: 3 cm
+    Direita: 2 cm
+    Inferior: 2 cm
+
+RECUOS
+- Para começar um paragrafo no trabalho, o recuo deve ser de 1,25, com essa regra também valendo para citações simples, com menos de três linhas e entre aspas “ ”. No caso das citações diretas longas, 
+deve-se fazer um recuo de 4cm.
+
+
