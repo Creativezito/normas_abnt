@@ -1,0 +1,33 @@
+Referências de citações feitas de um livro devem conter os seguintes dados:
+
+Nome(s) do(s) autor(es), título, subtítulo (se houver), edição (se houver), local, editora e data de publicação.
+
+Referências de citações feitas de um site devem conter os seguintes dados:
+
+Nome(s) do(s) autor(es) (se houver), título da matéria, nome do site, ano, endereço eletrônico e a data em que fizemos o acesso.
+
+Referência de artigo e/ou matéria de jornal em ABNT
+
+Exemplo com autor:
+
+CARAZZAI, Estelita Hass. Trump agora promete acabar com política que separa famílias de refugiados. Folha de S.Paulo, São Paulo, 20 de jun. de 2018. Disponível em: <https://www1.folha.uol.com.br/mundo/2018/06/trump-agora-promete-acabar-com-politica-que-separa-familias-de-refugiados.shtml>. Acesso em: 20 de jun. de 2018.
+
+Exemplo sem autor:
+
+TRUMP agora promete acabar com política que separa famílias de refugiados. Folha de S.Paulo, São Paulo, 20 de jun. de 2018. Disponível em: <https://www1.folha.uol.com.br/mundo/2018/06/trump-agora-promete-acabar-com-politica-que-separa-familias-de-refugiados.shtml>. Acesso em: 20 de jun. de 2018.
+
+Referência de artigo e/ou matéria de site em ABNT
+
+Exemplo com autor:
+
+SILVA, Victor Hugo. Golpe no WhatsApp usa clonagem de celular para atingir políticos. Tecnoblog, 2018. Disponível em: <https://tecnoblog.net/247801/golpe-whatsapp-clonagem-celular-politicos/>. Acesso em: 20 de jun. de 2018.
+
+Exemplo sem autor:
+
+GOLPE no WhatsApp usa clonagem de celular para atingir políticos. Tecnoblog, 2018. Disponível em: <https://tecnoblog.net/247801/golpe-whatsapp-clonagem-celular-politicos/>. Acesso em: 20 de jun. de 2018.
+
+Referência de homepage nas normas ABNT
+
+Exemplo:
+
+TECNOBLOG. Tecnoblog: tecnologia que interessa, c2018. Página inicial. Disponível em: <https://tecnoblog.net/>. Acesso em: 05 de jun. de 2021.
